@@ -1,7 +1,7 @@
 public class strong extends HtmlDecorator{
     HtmlBase html;
 
-    public strong (HtmlBase html, String name, String id){
+    public strong(HtmlBase html, String name, String id){
         this.html = html;
         this.name = name;
         this.id = id;
