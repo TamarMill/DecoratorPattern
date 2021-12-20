@@ -1,7 +1,7 @@
 public class u extends HtmlDecorator{
     HtmlBase html;
 
-    public u (HtmlBase html, String name, String id){
+    public u(HtmlBase html, String name, String id){
         this.html = html;
         this.name = name;
         this.id = id;
